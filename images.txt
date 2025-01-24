@@ -9,3 +9,5 @@ emby/embyserver
 gitlab/gitlab-ce
 openvpn/openvpn-as
 thijsvanloef/palworld-server-docker:latest
+
+portainer/portainer-ee:latest
