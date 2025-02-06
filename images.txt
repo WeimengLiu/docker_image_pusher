@@ -11,3 +11,5 @@ openvpn/openvpn-as
 thijsvanloef/palworld-server-docker:latest
 
 portainer/portainer-ee:latest
+
+ghcr.io/open-webui/open-webui:main
